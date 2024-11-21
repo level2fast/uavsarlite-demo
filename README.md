@@ -13,4 +13,4 @@ This repo contains the various phases of development for the UAVSARLITE project.
 <br />
 [Sprint 5](https://docs.google.com/presentation/d/1CU5FIbdrOgOjpig7aZWUo39KsBj6JQ_s/edit?usp=share_link&ouid=114089647132426202555&rtpof=true&sd=true)
 <br />
-[Sprint 6](https://docs.google.com/presentation/d/1uvhOP2GfNHbqVU05qUkOau-4KU9QgZqu/edit?usp=sharing&ouid=112085791097240071479&rtpof=true&sd=true)
+[Sprint 6](https://docs.google.com/presentation/d/1-B60OGWUcJh1YtfUbJj4sbxriLPsG2y-/edit?usp=drivesdk&ouid=114693799808677170760&rtpof=true&sd=true)
